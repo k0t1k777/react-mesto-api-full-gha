@@ -1,0 +1,17 @@
+.registration__submit-button {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  width: 358px;
+  height: 50px;
+  margin-bottom: 15px;
+}
+
+/* 540 */
+@media screen and (max-width: 540px) {
+  .registration__submit-button {
+    font-size: 16px;
+    line-height: 19px;
+    width: 260px;
+  }
+}

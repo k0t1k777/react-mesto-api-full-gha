@@ -3,7 +3,7 @@
 
 Ссылка на гитхаб репозитория https://github.com/k0t1k777/express-mesto-gha.git
 
-IP  x.x.x.x
+IP  130.193.54.168
 Frontend  https://...
 Backend  https://...
 

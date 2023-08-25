@@ -1,0 +1,20 @@
+/* 1280 */
+.header__logo {
+  margin: 0 0 41px;
+}
+
+/* 1024 */
+@media screen and (max-width: 1024px) {
+  .header__logo {
+    margin: 0 0 32px;
+    }
+  }
+
+/* 583 */
+@media screen and (max-width: 583px) {
+.header__logo {
+  background-size: 142px 43px;
+  width: 103px;
+  height: 24px;
+  }
+}

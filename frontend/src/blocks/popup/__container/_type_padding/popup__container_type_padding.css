@@ -1,0 +1,13 @@
+.popup__container_type_padding {
+  padding: 60px 36px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 540 */
+@media screen and (max-width: 540px) {
+  .popup__container_type_padding {
+    padding: 50px 18px;
+  }
+}

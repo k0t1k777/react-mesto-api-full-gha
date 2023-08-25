@@ -1,0 +1,10 @@
+.profile__wrapper {
+  display: flex;
+}
+
+/* 583px */
+@media screen and (max-width: 583px) {
+  .profile__wrapper {
+    margin: 0 auto;
+  }
+}

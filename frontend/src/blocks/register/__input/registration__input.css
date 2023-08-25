@@ -1,0 +1,9 @@
+.registration__input {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #CCC;
+  background: black;
+  width: 100%;
+  color: white
+}

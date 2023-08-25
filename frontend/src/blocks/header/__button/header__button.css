@@ -1,0 +1,24 @@
+.header__button {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  text-decoration: none;
+  margin-bottom: 46px;
+  color: white;
+}
+
+/* 1024 */
+@media screen and (max-width: 1024px) {
+  .header__button {
+    margin-right: 30px;
+  }
+}
+
+/* 540 */
+@media screen and (max-width: 540px) {
+  .header__button {
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 33px;
+  }
+}

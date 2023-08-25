@@ -1,0 +1,17 @@
+.elements__element_urn {
+  background-image: url(../../../images/Group-urn.svg);
+  background-color: transparent;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 18px;
+  height: 19px;
+  border: none;
+  cursor: pointer;
+}
+
+.elements__element_urn:hover {
+  opacity: 0.5;
+  transition: opacity 0.3s linear;
+}

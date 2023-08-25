@@ -1,0 +1,17 @@
+.registration__title {
+  color: white;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 900;
+  margin: 60px 0 50px;
+  text-align: center;
+}
+
+/* 540 */
+@media screen and (max-width: 540px) {
+  .registration__title {
+    margin-top: 40px;
+    font-size: 20px;
+    line-height: 24px;
+  }
+}

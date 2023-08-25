@@ -1,0 +1,30 @@
+.profile__edit-button {
+  height: 24px;
+  width: 24px;
+  align-self: center;
+  background-image: url(../../../images/Vector-pen.svg);
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 10px, 10px;
+  border: 1px solid white;
+  margin: 15px auto 0 18px;
+  cursor: pointer;
+}
+
+.profile__edit-button:hover {
+  opacity: 0.6;
+  transition: opacity 0.3s linear;
+}
+
+/* 583px */
+@media screen and (max-width: 583px) {
+  .profile__edit-button {
+    height: 18px;
+    width: 18px;
+    background-position: 40%;
+    margin: 0 auto 0 10px;
+    transform: translate(11px, 5px);
+    background-size: 7.5px, 7.5px;
+  }
+}

@@ -1,0 +1,14 @@
+.registration__container {
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  max-width: 358px;
+  width: 100%;
+}
+
+/* 540 */
+@media screen and (max-width: 540px) {
+  .registration__container {
+    width: 260px;
+  }
+}

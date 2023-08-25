@@ -1,0 +1,7 @@
+.popup__wrapper {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  min-height: 63px;
+  margin-bottom: 5px;
+}

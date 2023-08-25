@@ -1,0 +1,13 @@
+.popup__title_padding {
+  margin: 32px 0 0;
+  text-align: center;
+}
+
+/* 540 */
+@media screen and (max-width: 540px) {
+  .popup__title_padding {
+    margin: 40px 0 0;
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
