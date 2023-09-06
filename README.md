@@ -3,9 +3,9 @@
 
 Ссылка на гитхаб репозитория https://github.com/k0t1k777/express-mesto-gha.git
 
-IP  x.x.x.x
-Frontend  https://...
-Backend  https://...
+IP  158.160.66.192	
+Frontend  https://mesto-full.nomoredomainsicu.ru
+Backend  https://mesto-full-back.nomoredomainsicu.ru
 
 ## Директории
 
