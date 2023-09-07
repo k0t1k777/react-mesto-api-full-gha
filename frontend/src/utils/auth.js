@@ -1,4 +1,4 @@
-export const BasicUrl = "http://mesto-full-back.nomoredomainsicu.ru";
+export const BasicUrl = "https://mesto-full-back.nomoredomainsicu.ru";
 
 function cheсkResOk(res) {
   if (res.ok) {
