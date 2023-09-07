@@ -3,7 +3,7 @@
 
 Ссылка на гитхаб репозитория https://github.com/k0t1k777/express-mesto-gha.git
 
-IP  158.160.66.192	
+IP  51.250.17.142
 Frontend  https://mesto-full.nomoredomainsicu.ru
 Backend  https://mesto-full-back.nomoredomainsicu.ru
 
@@ -21,3 +21,4 @@ Backend  https://mesto-full-back.nomoredomainsicu.ru
 
 `npm run start` — запускает сервер   
 `npm run dev` — запускает сервер с hot-reload
+ 
