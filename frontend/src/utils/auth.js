@@ -1,4 +1,4 @@
-export const BasicUrl = "http://localhost:3000";
+export const BasicUrl = "http://mesto-full-back.nomoredomainsicu.ru";
 
 function cheсkResOk(res) {
   if (res.ok) {
